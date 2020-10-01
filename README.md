@@ -19,7 +19,7 @@
 
 ### 技术架构和组件
 #### Flink
-* [Flink平台化核心SQL实现](./架构技术平台/Flink/Flink平台化核心SQL实现.md)
+* [Flink平台化核心SQL实现](./架构技术平台/Flink/Flink平台化核心SQL.md)
 
 
 

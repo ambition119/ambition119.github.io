@@ -1,4 +1,4 @@
- ### 说明：
+### 说明：
 &emsp;&emsp;对应各个不同的环境，只要更改hbase的按照目录的路径就可以使用，同时加调度组件或者简单的corntab设置周期性执行。
 
 #### 1 HBase regionserver 重启
